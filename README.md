@@ -1,7 +1,5 @@
 # PhotoAlbum
 Hi This a Photo Album Where You can save Your Pictures With Title and Description.  You Also can Delete And Update The pictures that are in Your Photo Album .Here I  have Used The RoomData Base For Storing The data 
-# PhotoAlbum
-Hi This a Photo Album Where You can save Your Pictures With Title and Description.  You Also can Delete And Update The pictures that are in Your Photo Album .Here I  have Used The RoomData Base For Storing The data 
 
 ![Screenshot_20230613_164732](https://github.com/Bhuvana-71/PhotoAlbum/assets/112925214/43c2f881-d535-459d-94fa-17871f817061)
 
